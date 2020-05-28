@@ -22,6 +22,7 @@ void m1();
 class A{
 public static void main(String [] s){
 System.out.println("interface updated");
+System.out.println("New change in dev Branch => on interface);
 Interface1 obj;
 }
 }
