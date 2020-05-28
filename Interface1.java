@@ -21,7 +21,7 @@ void m1();
 }
 class A{
 public static void main(String [] s){
-System.out.println("done with rules of interface ");
+System.out.println("interface updated");
 Interface1 obj;
 }
 }
